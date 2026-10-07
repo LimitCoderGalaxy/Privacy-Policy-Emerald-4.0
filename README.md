@@ -1,38 +1,117 @@
-# Privacy-Policy-Emerald-4.9
-Privacy Policy
+# Emerald Utility 4.9 — Privacy Policy
 
-This Will Go Into Effect January 1/20/2025 12AM
+**Effective Date: October 6, 2026**  
+**Last Updated: October 6, 2026**
 
-At Emerald Utility 4.0, your privacy is of utmost importance to us. This Privacy Policy outlines the types of information we collect, how it is used, and the measures we take to ensure your information remains secure.
+Emerald Utility 4.9 ("Emerald Utility," "the Bot," "we," "us," or "our") is a Discord bot designed to provide utility features and services within Discord servers.
 
-Information We Collect
+Your privacy is important to us. This Privacy Policy explains what information Emerald Utility may collect, why it may be collected, how it may be used, and the choices available to users.
 
-Personal Information: When you use Emerald Utility 4.0, we may collect personal information such as your name, email address, and payment details.
+## 1. Information We May Collect
 
-Usage Data: We collect information about how you interact with our software, including your IP address, browser type, and operating system.
+When you interact with Emerald Utility, the Bot may process or store certain information provided through Discord that is necessary for its features to function.
 
-Cookies and Tracking Technologies: We use cookies and similar technologies to enhance your experience and gather data about your preferences and usage patterns.
+This may include:
 
-How We Use Your Information
+- **Discord User IDs** — Used to identify users when required by a feature.
+- **Discord Server (Guild) IDs** — Used to identify servers and store server-specific settings.
+- **Discord Channel IDs** — Used when features need to remember or interact with particular channels.
+- **Discord Role IDs** — Used when features involve server roles or permissions.
+- **Bot Settings and Preferences** — Configuration selected by server administrators or users.
+- **Command Information** — Information associated with commands submitted to Emerald Utility when necessary to process the requested feature.
 
-Provide Services: To deliver and maintain our services, including processing transactions and responding to support requests.
+Emerald Utility does **not collect or store your IP address**.
 
-Improve Our Services: To analyze usage patterns and feedback to continually improve the functionality and user experience of Emerald Utility 4.0.
+Emerald Utility does not independently receive sensitive account information such as your Discord password.
 
-Communications: To send you important updates, promotional materials, and other relevant information.
+## 2. How We Use Information
 
-Data Security
+Information processed or stored by Emerald Utility may be used to:
 
-We implement a variety of security measures to protect your personal information. These include encryption, secure servers, and regular security audits. Despite our best efforts, no method of transmission over the internet is 100% secure, and we cannot guarantee absolute security.
+- operate the Bot and its commands;
+- provide requested features;
+- remember server configurations;
+- remember user preferences when necessary;
+- troubleshoot errors and technical problems;
+- prevent abuse or misuse of the Bot;
+- maintain the security and reliability of Emerald Utility; and
+- improve the Bot and its features.
 
-Third-Party Services
+Information collected through Emerald Utility will not be used for purposes unrelated to operating, securing, maintaining, or improving the Bot unless users are informed otherwise.
 
-We may share your information with trusted third parties who assist us in operating our software, conducting business, or servicing you, provided these parties agree to keep your information confidential.
+## 3. Discord
 
-Your Rights
+Emerald Utility operates through Discord and therefore depends on Discord's platform and services.
 
-You have the right to access, correct, or delete your personal information. If you wish to exercise these rights, please contact us at [contact email].
+Discord may independently collect and process information when you use its services. Discord's collection and processing of information is governed by Discord's own policies and is separate from the information controlled by Emerald Utility.
 
-Changes to This Privacy Policy
+Emerald Utility does not control Discord's collection or handling of information.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we encourage you to review this policy periodically.
+## 4. Sharing of Information
+
+Emerald Utility does not sell users' personal information.
+
+Information may be shared with service providers only when reasonably necessary to operate, host, maintain, or secure Emerald Utility.
+
+Information may also be disclosed when reasonably necessary to:
+
+- comply with applicable law or a valid legal request;
+- investigate fraud, abuse, or security incidents;
+- protect Emerald Utility, its users, or others; or
+- enforce applicable rules, policies, or terms.
+
+## 5. Data Security
+
+Reasonable measures are used to protect information stored by Emerald Utility from unauthorized access, disclosure, alteration, or loss.
+
+However, no online service or computer system can guarantee absolute security.
+
+## 6. Data Retention
+
+Information is retained only for as long as reasonably necessary to provide Emerald Utility's features, maintain security, resolve technical issues, or comply with applicable legal obligations.
+
+Information that is no longer reasonably necessary may be deleted or anonymized where appropriate.
+
+## 7. Data Deletion and Privacy Requests
+
+Users may request deletion of eligible information associated with them.
+
+Server administrators may also request deletion of eligible server-specific information associated with a Discord server they manage.
+
+Requests may require verification to ensure that the person making the request is authorized to do so.
+
+To submit a privacy or data-deletion request, contact us using the information listed in the **Contact Us** section below.
+
+## 8. Children's Privacy
+
+Emerald Utility is intended to be used through Discord and is not designed to knowingly collect personal information from children in violation of applicable law.
+
+If we become aware that information has been collected in circumstances where it should not have been collected, we may take appropriate steps to remove it.
+
+## 9. Third-Party Services
+
+Emerald Utility may rely on third-party services for hosting, databases, APIs, or other functionality.
+
+These services may process limited information when necessary to provide their functionality. Their handling of information may also be governed by their respective privacy policies.
+
+## 10. Changes to This Privacy Policy
+
+This Privacy Policy may be updated as Emerald Utility changes or new features are introduced.
+
+When changes are made, the **Last Updated** date at the top of this policy will be revised.
+
+Significant changes may also be announced through appropriate Emerald Utility or Discord channels.
+
+Continued use of Emerald Utility after an updated policy becomes effective constitutes acknowledgment of the updated policy where permitted by applicable law.
+
+## 11. Contact Us
+
+If you have questions about this Privacy Policy, want to request deletion of eligible information, or have another privacy-related concern, contact:
+
+**Emerald Utility Support**  
+**Discord:** [https://discord.com/invite/EcHrFzsgm4]
+
+---
+
+**Emerald Utility 4.9**  
+© 2026 Emerald Utility. All rights reserved.
